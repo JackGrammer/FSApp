@@ -106,7 +106,6 @@ h1 {
   color: #888;
 }
 
-/* Progress Bar Styles */
 .progress-container {
   width: 100%;
   height: 24px;
@@ -125,13 +124,13 @@ h1 {
 
 /* variations for progress bar */
 .progress-bar.low {
-  background-color: #f44336; /* Red when below 30% */
+  background-color: #f44336; 
 }
 .progress-bar.medium {
-  background-color: #FFC107; /* Yellow when 30-70% */
+  background-color: #FFC107; 
 }
 .progress-bar.high {
-  background-color: #4CAF50; /* Green when above 70% */
+  background-color: #4CAF50; 
 }
 
 .progress-text {

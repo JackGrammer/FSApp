@@ -76,7 +76,7 @@ function App() {
     <div className="app">
       <h1>To-Do List</h1>
 
-      {/* Progress Bar */}
+      {}
       <div className="progress-container">
         <div 
           className={`progress-bar ${
@@ -90,7 +90,7 @@ function App() {
         </span>
       </div>
       
-      {/* Task counter */}
+      {}
       <div className="task-counter">
         <span className="pending">Pending: {pendingCount}</span>
         <span className="completed">Completed: {completedCount}</span>
